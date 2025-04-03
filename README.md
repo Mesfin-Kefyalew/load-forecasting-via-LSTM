@@ -1,0 +1,1 @@
+In this project uses the LSTM model architecture to predict energy consumption fairly accurately. As can be seen in the RMS error visual for a linear model and LSTM based model, the LSTM perfoms much better. 
