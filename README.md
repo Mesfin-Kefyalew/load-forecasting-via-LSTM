@@ -1,0 +1,3 @@
+- Here are two notebooks[load_predictor_ARIMA, load_predictor_LSTM] each tasked with load forecasting based on the data: 2015.csv and AEP_hourly.csv.
+- while the first, uses a statistical method, Autoregressive integrated moving average(ARIMA), to perform load forecasting, the later uses the long short term memory(LSTM) to predict values.
+- My next step in the second version will be to merge this codes such that both algorithms are trained on a single data. This approach will make it easier to quantify their performance.
